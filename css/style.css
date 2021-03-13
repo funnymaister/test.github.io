@@ -123,7 +123,7 @@ html {
 
 .main {
   padding: 20px 0px 185px 0px;
-  background: url("/img/header_image/rectangle.jpg") 0 0/100% auto no-repeat;
+  background: url("../../img/header_image/rectangle.jpg") 0 0/100% auto no-repeat;
 }
 
 .text1 {
@@ -605,7 +605,7 @@ html {
   font-family: Arial;
   font-size: 25px;
   text-align: center;
-  background: url("/img/price/Rectangle_14.jpg") 0 0/auto auto no-repeat;
+  background: url("../../img/price/blue_fon.png") 0 0/auto auto no-repeat;
 }
 
 .priceD {
