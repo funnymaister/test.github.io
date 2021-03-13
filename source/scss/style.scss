@@ -48,9 +48,8 @@ html{
  }
 .main {
 	padding: 20px 0px 185px 0px;
-	background: url('../../img/header_image/rectangle.jpg') 0 0/100% auto no-repeat;
+	background: url('../img/header/bg.png') 0 0/100% auto no-repeat;
  }
- .image { }
 .text1 {
 color: #ffffff;
 font-family: "Arial";
@@ -474,7 +473,7 @@ text-align: center;
 	font-family: Arial;
 	font-size: 25px;
 	text-align: center;
-	background: url('../../img/price/blue_fon.png') 0 0/auto auto no-repeat;
+	background: url('../img/price/blue_fon.png') 0 0/auto auto no-repeat;
  }
 .priceD {
 	text-align: center;
@@ -484,10 +483,7 @@ text-align: center;
 color: #ffffff;
  }
  /* родитель */
- .block{
 
-	 
-}
 /* flex-контейнер */
 .block__row{
    padding: 19px;
@@ -498,9 +494,7 @@ color: #ffffff;
 	margin: 0 auto;
 }
 /* flex-элемент */
-.block__element{
 
-}
 /* flex-элемент №1 */
 .block__element_1{
 	padding: 5px 5px 0px 0px;
@@ -510,16 +504,12 @@ color: #ffffff;
 /* flex-элемент №2 */
 .block__element_2{
 	font-size: 50px;
-
 }
 /* flex-элемент №3 */
 .block__element_3{
 	padding: 0px 0px 5px 5px;
 	font-size: 17px;
 	align-self:flex-end;
-}
-.block__content{
- /* плюс прочие стили для текста, отступы */
 }
  .price__description {
 	 margin: 0 auto;
@@ -580,7 +570,4 @@ color: #ffffff;
 	display: grid;
 	align-items: center;
 	text-align: center;
- }
-.footer__copy {
-
  }
