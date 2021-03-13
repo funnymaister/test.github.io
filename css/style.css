@@ -137,7 +137,7 @@ html {
 
 .main {
   padding: 20px 0px 185px 0px;
-  background: url("img/header_image/rectangle.jpg") 0 0/100% auto no-repeat;
+  background: url("../img/header_image/rectangle.jpg") 0 0/100% auto no-repeat;
 }
 
 .text1 {
